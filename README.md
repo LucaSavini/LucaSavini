@@ -9,11 +9,9 @@
 
 💞️ Sono interessato a collaborare su progetti che coinvolgono lo sviluppo di applicazioni web utilizzando tecnologie come Java, SQL, GitHub, Spring Boot e Hibernate.
 
-📫 Puoi contattarmi tramite LinkedIn: [www.linkedin.com/in/luca-savini-06a8422a3]
-
 ⚡ Curiosità divertente: Sono un grande appassionato di musica e sono un chitarrista appassionato. Trovo ispirazione nella musica e spesso trovo analogie tra la creatività necessaria per suonare la chitarra e risolvere problemi di programmazione!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contatti 📫 :</h3>
 <p align="left">LinkedIn: [www.linkedin.com/in/luca-savini-06a8422a3]</p>
 <p align="left">E-mail: [luca.savini.96@gmail.com]</p>
 
