@@ -1,5 +1,5 @@
 
-<h1 align="center">Ciao 👋, I'm Luca Savini</h1>
+<h1 align="center">Ciao 👋, sono Luca Savini</h1>
 <h3 align="center">Java back-end developer </h3>
 
 
